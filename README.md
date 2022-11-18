@@ -1,11 +1,12 @@
 # Smart-Giffy
 Gif Based chatbot replies in gif according to user query
 
-# Steps
-## Install the libraries
+# Steps to follow:
+1) Install the libraries
 ### Libraries
   * pandas
   * pinecone-client
   * tqdm(progress bar)
+
 
 
