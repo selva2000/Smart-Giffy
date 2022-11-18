@@ -33,6 +33,7 @@ Gif Based chatbot replies in gif according to user query
    * Encode the text to vector
    * Find the text with the existed text in the database
    * Return the Gif
+   
 8) Display the gif
    ![image](https://user-images.githubusercontent.com/67852967/202752814-e0f36fc2-326c-42f5-a3ec-e02dec29f050.png)
  
