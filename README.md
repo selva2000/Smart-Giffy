@@ -6,7 +6,7 @@ Gif Based chatbot replies in gif according to user query
 ## Model
   * Sentence transformer
   #### Short Description:
-  This model is used for text and IMage Embeddings
+  This model is used for text and Image Embeddings
 ## Web Framwork
    * Flask
   
